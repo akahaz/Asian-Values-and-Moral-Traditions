@@ -14,3 +14,7 @@ In this chapter, it mainly introduces the theory of Confucianism in the pre-Qin 
 Both Mencius and Xunzi are descendants of the pre-Qin Confucian Confucius. Mencius advocated "remove profit and embrace righteousness", and vigorously promoted "righteousness", and put forward "the theory of good nature". Xunzi, on the other hand, was an opponent of Mencius. He proposed "controlling profit with righteousness" against "removing profit and cherishing righteousness", and advocated the significance of "profit" to people, and put forward the "theory of evil nature" against the theory of "the theory of good nature".
 
 <img src="https://github.com/akahaz/Asian-Values-and-Moral-Traditions/blob/main/image/index/Mencius.jpg" width="200px"> <img src="https://github.com/akahaz/Asian-Values-and-Moral-Traditions/blob/main/image/index/Xunzi.jpg" width="200px">
+
+## Topic 3
+### Daoism Laozi and Yang Zhu
+
