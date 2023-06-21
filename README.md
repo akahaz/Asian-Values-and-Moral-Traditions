@@ -7,7 +7,7 @@ In this study, we delve into the profound influence of Asian religions and cultu
 ### Pre-Qin Confucianism: Confucius
 In this chapter, it mainly introduces the theory of Confucianism in the pre-Qin period, the core of which is the thought of benevolence. Through the introduction of Confucius' thoughts, it is observed that people at that time attached importance to the blood relationship of clansmen. And fully understand the reasons for the extension of Confucianism.
 
-<img src="https://github.com/akahaz/Asian-Values-and-Moral-Traditions/blob/main/image/index/Confucius.png" width="300px">
+<img src="https://github.com/akahaz/Asian-Values-and-Moral-Traditions/blob/main/image/index/Confucius.jpg" width="300px">
 
 ## Topic 2
 ### Pre-Qin Confucianism Mencius and Xunzi
